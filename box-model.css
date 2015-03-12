@@ -31,7 +31,7 @@ a:hover, a#current-page {
 	padding: 20px;	
 	margin-right: auto;
 	margin-left: auto;
-}
+	}
 
 #logo {
 	width: 303px;
@@ -39,7 +39,7 @@ a:hover, a#current-page {
 	margin-bottom: 25px;
 	margin-right: auto;
 	margin-left: auto;
-}
+	}
 	
 	/*-- Navigation --*/
 		
@@ -47,7 +47,7 @@ a:hover, a#current-page {
 	border-top: 2px solid #000;
 	border-bottom: 1px solid #000;
 	padding: 20px;
-}
+	}
 
 #current-page {
 	width: 625px;
@@ -56,28 +56,28 @@ a:hover, a#current-page {
 	margin-right: auto;
 	margin-left: auto;
 	display: inline;
-}
+	}
 
 a:link {
-  color: blue;
-  text-decoration: none;
-}
+	color: blue;
+	text-decoration: none;
+	}
 a:visited {
-  color: #7d82bc;
-  text-decoration: none;
-}
+  	color: #7d82bc;
+  	text-decoration: none;
+  	}
 a:hover {
-  color: blue;
-  text-decoration: underline;
-}
+  	color: blue;
+  	text-decoration: underline;
+	}
 a:active {
-  color: #343740;
-}
+  	color: #343740;
+	}
 
-li {
+	li {
 	display:inline;
 	margin: 30px;
-}
+	}
 
 	/*-- Navigation End --*/
 
@@ -88,7 +88,7 @@ p {
 	margin-bottom: 20px;
 	margin-right: auto;
 	margin-left: auto;
-}
+	}
 
 
 
